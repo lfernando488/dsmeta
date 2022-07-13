@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import SalesCard from "./components/SalesCard";
 
-import './index.css'
+import './index.css';
 
 function App() {
   
@@ -19,4 +19,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
